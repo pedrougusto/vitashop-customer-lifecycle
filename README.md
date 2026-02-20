@@ -243,4 +243,4 @@ The domain (VitaShop, a fictional health e-commerce) and all data are synthetic.
 
 ---
 
-*Questions or feedback? Open an issue or reach out on [LinkedIn](#).*
+*Questions or feedback? Open an issue or reach out on [LinkedIn](https://www.linkedin.com/in/pedro-augusto-camargo-de-oliveira/).*
