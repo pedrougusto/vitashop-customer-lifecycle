@@ -56,8 +56,7 @@ This pipeline solves both problems:
                                  │
                     ┌────────────▼────────────┐
                     │  BI / Dashboard Layer    │
-                    │  (Looker Studio / Power  │
-                    │   BI / Tableau)          │
+                    │  (Power BI)              │
                     └─────────────────────────┘
 ```
 
